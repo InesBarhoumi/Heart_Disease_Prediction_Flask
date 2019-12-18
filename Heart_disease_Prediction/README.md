@@ -68,6 +68,7 @@ values using a performance metric which is the accuracy.
 We also computed the confusion matrix, also known as the error matrix, to evaluate the accuracy of the model.
 <p> The confusion matrix displays the correctly predicted as well as incorrectly predicted values by a classifier.
  
+![C13314_06_05](https://user-images.githubusercontent.com/58909998/71084388-6b2a4f00-2195-11ea-88bb-ebe57b4fae53.jpg)
 ![téléchargement](https://user-images.githubusercontent.com/58909998/70910836-d860a780-2010-11ea-9f73-0e0dda76e3c5.jpg)
   
 <p> The model achieves above 80% of accuracy. </p> 
